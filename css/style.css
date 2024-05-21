@@ -359,7 +359,8 @@ footer .footer-container{
   .getInTouch p {
     font-size: 17px;
     color: #989898;
-    width: 530px;
+    width: 535px;
+    border: 1px solid;
   }
   footer {
     padding: 0 2em;
