@@ -7,6 +7,13 @@ body {
   color: #fff;
   background-color: #000;
 }
+::-webkit-scrollbar{
+  width: 5px;
+  background-color: #151515;
+}
+::-webkit-scrollbar-thumb{
+  background-color: #fbe850;
+}
 header {
   font-family: "Prata", serif;
   font-weight: 400;
@@ -210,7 +217,7 @@ div.article h2 {
   font-style: normal;
 }
 div.article p {
-  font-size: 14.5px;
+  font-size: 16px;
   line-height: 25px;
   color: #adadad;
   margin-top: 10px;
@@ -239,7 +246,7 @@ div.article p {
   font-style: normal;
 }
 .getInTouch p {
-  font-size: 14.5px;
+  font-size: 16px;
   line-height: 25px;
   color: rgb(173, 173, 173);
   margin-top: 10px;
@@ -319,7 +326,7 @@ footer .footer-container{
     font-size: 3.55em;
   }
   .headline p {
-    font-size: 18.5px;
+    font-size: 19px;
     color: rgb(173, 173, 173);
   }
   div.companies {
@@ -332,7 +339,7 @@ footer .footer-container{
     padding: 0 2em;
   }
   .banner p {
-    font-size: 18px;
+    font-size: 18.5px;
     color: #989898;
   }
   div.article {
@@ -357,10 +364,9 @@ footer .footer-container{
     font-size: 2.3em;
   }
   .getInTouch p {
-    font-size: 17px;
+    font-size: 18.5px;
     color: #989898;
-    width: 540px;
-    border: 1px solid white;
+    width: 527px;
   }
   footer {
     padding: 0 2em;
@@ -417,7 +423,7 @@ footer .footer-container{
     font-size: 2.5em;
   }
   .headline p {
-    font-size: 16px;
+    font-size: 18px;
     color: rgb(173, 173, 173);
   }
   div.companies {
@@ -465,8 +471,8 @@ footer .footer-container{
     font-size: 2.3em;
   }
   .getInTouch p {
-    font-size: 20px;
-    width: 527px;
+    font-size: 18.5px;
+    width: 526px;
   }
   footer {
     padding: 0 7em;
@@ -499,8 +505,8 @@ footer .footer-container{
     width: 660px;
   }
   .headline p {
-    font-size: 18px;
-    width: 660px;
+    font-size: 17.5px;
+    width: 650px;
   }
   div.companies {
     margin: 50px auto;
@@ -536,7 +542,7 @@ footer .footer-container{
     font-size: 2.2em;
   }
   .getInTouch p {
-    font-size: 19px;
+    font-size: 18.5px;
   }
   footer .footer-container{
     max-width: 1114px;
